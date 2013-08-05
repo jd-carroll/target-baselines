@@ -2,10 +2,10 @@
 <project name="project" default="beta-release">
 
 	<property name="build" location="${basedir}/build" />
-	<property name="repository-name" value="PDE API Tools (Incubation)" />
+	<property name="repository-name" value="PDE API Tools (Dev)" />
 	<property file="keystore.properties" />
 	<property name="feature-id" value="com.mansfield.pde.api.tools.feature" />
-	<property name="update-project" value="com.mansfield.pde.api.tools.downloads.incubation" />
+	<property name="update-project" value="com.mansfield.pde.api.tools.downloads-dev" />
 	<property name="version" value="0.1.0" />
 
 	<target name="beta-release" description="description" depends="clean, init">
