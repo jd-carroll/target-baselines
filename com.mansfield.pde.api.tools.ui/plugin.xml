@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+<plugin
+>
+   <extension
+         point="org.eclipse.ui.preferencePages">
+      <page
+            category="org.eclipse.pde.ui.MainPreferencePage"
+            class="com.mansfield.pde.api.tools.internal.ui.preferencepages.MainPreferencePage"
+            id="com.mansfield.pde.api.tools.ui.preferencepage.main"
+            name="%preferencePage.main.name">
+         <keywordReference
+               id="org.eclipse.pde.ui.MainPreferencePage">
+         </keywordReference>
+         <keywordReference
+               id="org.eclipse.pde.ui.pde">
+         </keywordReference>
+      </page>
+      <page
+            category="com.mansfield.pde.api.tools.ui.preferencepage.main"
+            class="com.mansfield.pde.api.tools.internal.ui.preferencepages.TargetBaselinePreferencePage"
+            id="com.mansfield.pde.api.tools.ui.preferencepage.p2RepositoryBaseline"
+            name="%p2RepositoryBaseline.preferencePage.name">
+         <keywordReference
+               id="org.eclipse.pde.api.tools.ui.profiles.prefpage">
+         </keywordReference>
+      </page>
+   </extension>
+</plugin>

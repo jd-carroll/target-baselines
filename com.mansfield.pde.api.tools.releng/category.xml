@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<site>
+	<feature id="com.mansfield.pde.api.tools.feature" url="features/com.mansfield.pde.api.tools.feature_0.1.0.qualifier.jar" version="0.1.0.qualifier">
+		<category name="Mansfield Technology PDE API Tools"/>
+	</feature>
+	<category-def label="PDE API Tools" name="Mansfield Technology PDE API Tools"/>
+</site>
