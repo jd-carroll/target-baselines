@@ -5,7 +5,7 @@ The Target Baselines feature allows you to use predefined target definitions as 
 Please see the instructions under <a href="#updatesite">Update Site</a> for installation.
 
 ## Usage Instructions
-Once the software is <a href="#Update>installed</a>, the following steps outline how to use a target definition as an API Baseline
+Once the software is <a href="#Update">installed</a>, the following steps outline how to use a target definition as an API Baseline
 
 1. Open your Eclipse IDE
 2. Window -> Preferences
