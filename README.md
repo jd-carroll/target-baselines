@@ -16,10 +16,8 @@ To report new issues with this feature, please use the <a href="https://github.c
 <pre>https://raw.github.com/jd-carroll/target-baselines/master/com.mansfield.pde.api.tools.downloads</pre>
 * [Downloadable Update Site] (https://github.com/jd-carroll/target-baselines/blob/master/com.mansfield.pde.api.tools.downloads/update-site.zip?raw=true)
 
-1. Drag <b>Install Button</b>(Shown above) on to your eclipse's main toolbar.
-2. Done.
-
 To install the software
+
 1. Open your Eclipse IDE
 2. Help -> Install New Software
 3. Enter the site:
