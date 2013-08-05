@@ -19,7 +19,8 @@ To report new issues with this feature, please use the <a href="https://github.c
 To install the software:
 1. Open your Eclipse IDE
 2. Help -> Install New Software
-3. Enter the site: https://raw.github.com/jd-carroll/target-baselines/master/com.mansfield.pde.api.tools.downloads
+3. Enter the site:
+<pre>https://raw.github.com/jd-carroll/target-baselines/master/com.mansfield.pde.api.tools.downloads</pre>
 4. Select PDE API Tools and click finish
 
 Note: I am in the process of getting an SSL Certificate. In the mean time, I am unable to sign the jars and you will be prompted with a warning during the installation process.
